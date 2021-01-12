@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost:85/Ajax_CRUD_Codeigniter/';
+$config['base_url'] = 'http://localhost/Cdeigniter_Ajax_CRUD_Mini_Project/';
 
 /*
 |--------------------------------------------------------------------------
